@@ -11,6 +11,7 @@
 		<config>WebContent/WEB-INF/dispatcher-servlet.xml</config>
 		<config>WebContent/WEB-INF/persistance-beans.xml</config>
 		<config>WebContent/WEB-INF/service-beans.xml</config>
+		<config>WebContent/WEB-INF/lib/web.xml</config>
 	</configs>
 	<autoconfigs>
 	</autoconfigs>
